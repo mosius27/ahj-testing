@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/q5vw3wafh0sbbkfn/branch/master?svg=true)](https://ci.appveyor.com/project/mosius27/ahj-4-1-testing/branch/master)
 
-#### Deployment: https://mosius27.github.io/ahj-4.1-testing/
+#### Deployment: https://mosius27.github.io/ahj-testing/
 
 ---
 

@@ -2,8 +2,8 @@
   "name": "ahj-4.1-testing",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Sergius92739/ahj-4.1-testing",
-  "author": "Sergius92739 <sergem279@gmail.com>",
+  "repository": "https://github.com/mosius27/ahj-4.1-testing",
+  "author": "mosius27 <mosius27@yandex.ru>",
   "license": "MIT",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
